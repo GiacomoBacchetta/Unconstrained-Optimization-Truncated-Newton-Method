@@ -1,6 +1,6 @@
 # Unconstrained Optimization: the Truncated Newton Method
 ***
-In this repository the Truncated Newton Method is presented. \\
+In this repository the Truncated Newton Method is presented. \
 It belongs to the class of globally converging modifications of Newton’s method and it is suitable to solve complex unconstrained problems.
 ***
 ### Authors
