@@ -1,6 +1,6 @@
 # Unconstrained Optimization: the Truncated Newton Method
 ***
-The aim of this repository is to propose an implementation of the Truncated Newton Method, written whitout using pre-built functions. \
+The aim of this repository is to propose an implementation of the Truncated Newton Method, written whitout using pre-built optimization functions. \
 TNM belongs to the class of globally converging modifications of Newton’s method and it is suitable to solve complex unconstrained problems.
 ***
 ### Authors
